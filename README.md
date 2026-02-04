@@ -23,6 +23,14 @@ Estou focado em construir uma base sólida de conhecimento **técnico e prático
 ## ✨ Objetivo
 
 Aprender continuamente, evoluir como desenvolvedor e compartilhar conhecimento ao longo da minha jornada na área de tecnologia 🚀
+ ---
+ 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a7/24/2d/a7242dd37ec527abb1c1bdcf20def129.gif" width="400">
+</p>
+
+
+---
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
