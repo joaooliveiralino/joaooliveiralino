@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Lucas!
+# 👋 Eu sou o João Lucas!
 
 🎓 Estudante de **Ciência da Computação**  
 📍 Univertix – Centro Universitário Vértice | Matipó – MG  
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Oi! Me chamo **João Lucas** e atualmente estou cursando **Ciência da Computação** na **UninVertix**.  
+Me chamo **João Lucas** e atualmente estou cursando **Ciência da Computação** na **UninVertix**.  
 Estou focado em construir uma base sólida de conhecimento **técnico e prático**, com o objetivo de enfrentar os desafios do mercado digital.
 
 ---
