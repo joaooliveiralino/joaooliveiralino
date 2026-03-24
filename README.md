@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Me chamo **João Lucas** e atualmente estou cursando **Ciência da Computação** na **UninVertix**.  
+Me chamo **João Lucas** e atualmente estou cursando **Ciência da Computação** na **UniVertix**.  
 Estou focado em construir uma base sólida de conhecimento **técnico e prático**, com o objetivo de enfrentar os desafios do mercado digital.
 
 ---
