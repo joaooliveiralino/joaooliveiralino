@@ -1,4 +1,4 @@
-# 👋 Eu sou o João Lucas!
+# 👋 Eu sou o João Oliveira!
 
 🎓 Estudante de **Ciência da Computação**  
 📍 Univertix – Centro Universitário Vértice | Matipó – MG  
